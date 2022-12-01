@@ -10,4 +10,4 @@ def containsDuplicate(nums):
             return True
     return False
 
-print(containsDuplicate([1,1,3]))
+
